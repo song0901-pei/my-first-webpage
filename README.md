@@ -1,2 +1,8 @@
-# my-first-webpage
-Chinese eight major cuisines
+# 我的第一个网页
+这是我在Task 1中制作的中国八大菜系菜谱表。
+## 有什么内容
+每个菜系有他所属的特色菜和制作方法
+## 怎么打开
+下载【宋沛仪.html。html】，用浏览器打开即可。
+## 使用的工具
+workbuddy
